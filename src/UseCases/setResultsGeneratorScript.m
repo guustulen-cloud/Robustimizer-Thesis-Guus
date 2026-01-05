@@ -12,3 +12,4 @@ function setResultsGeneratorScript(project, fileName)
 
     project.scriptFileName = fileName;
 end
+% comment 
